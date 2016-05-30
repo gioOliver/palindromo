@@ -1,0 +1,19 @@
+body{
+  font-family:sans-serif;
+  color:#333;
+}
+table{
+  width:90%;
+  max-width: 500px;
+  margin: auto;
+  border: 1px solid #555;
+}
+td{
+  border: 1px solid #555;
+}
+input{
+  width:99%;
+}
+button{
+  width: 100%;
+}
